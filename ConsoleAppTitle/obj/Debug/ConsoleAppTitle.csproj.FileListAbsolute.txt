@@ -1,0 +1,6 @@
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\bin\Debug\ConsoleAppTitle.exe.config
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\bin\Debug\ConsoleAppTitle.exe
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\bin\Debug\ConsoleAppTitle.pdb
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\obj\Debug\ConsoleAppTitle.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\obj\Debug\ConsoleAppTitle.exe
+C:\Users\Ronan\source\repos\ConsoleAppTitle\ConsoleAppTitle\obj\Debug\ConsoleAppTitle.pdb
